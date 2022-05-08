@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Bowling pálya foglaló</string>
+    <string name="userName">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="emailAddress">Email cím</string>
+    <string name="cancel">Mégse</string>
+    <string name="passwordAgain">Jelszó megerősítése</string>
+
+    <string name="time_placeholder">Időpont</string>
+    <string name="alley_placeholder">Pálya</string>
+
+    <string-array name="time_item_names">
+        <item>H: 10:00-11:00</item>
+        <item>H: 11:00-12:00</item>
+        <item>H: 12:00-13:00</item>
+        <item>H: 14:00-15:00</item>
+        <item>H: 14:00-15:00</item>
+        <item>H: 15:00-16:00</item>
+        <item>H: 15:00-16:00</item>
+        <item>K: 10:00-11:00</item>
+        <item>K: 11:00-12:00</item>
+        <item>K: 12:00-13:00</item>
+        <item>K: 14:00-15:00</item>
+        <item>K: 14:00-15:00</item>
+        <item>K: 15:00-16:00</item>
+        <item>K: 15:00-16:00</item>
+        <item>SZ: 10:00-11:00</item>
+        <item>SZ: 11:00-12:00</item>
+        <item>SZ: 12:00-13:00</item>
+        <item>SZ: 14:00-15:00</item>
+        <item>SZ: 14:00-15:00</item>
+        <item>SZ: 15:00-16:00</item>
+        <item>SZ: 15:00-16:00</item>
+        <item>CS: 10:00-11:00</item>
+        <item>CS: 11:00-12:00</item>
+        <item>CS: 12:00-13:00</item>
+        <item>CS: 14:00-15:00</item>
+        <item>CS: 14:00-15:00</item>
+        <item>CS: 15:00-16:00</item>
+        <item>CS: 15:00-16:00</item>
+
+    </string-array>
+
+    <string-array name="alley_item_names">
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+        <item>Pálya: 1</item>
+        <item>Pálya: 2</item>
+    </string-array>
+
+</resources>
+

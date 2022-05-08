@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669332248595",
+    "project_id": "bowling-aaa1d",
+    "storage_bucket": "bowling-aaa1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669332248595:android:2466307cd112e8e410c7e6",
+        "android_client_info": {
+          "package_name": "com.example.bowling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669332248595-4gt9s3f1m3otq9sa3cpa68kbhj39mdpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bowling",
+            "certificate_hash": "644f570deae3bc98863aaa20ad1bfd26dab84d59"
+          }
+        },
+        {
+          "client_id": "669332248595-1tnl0fsnb8jsq39ibn0htmu53qduouua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOjG7O9CsfUbRDwhDEHa51mewd1a-OLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669332248595-1tnl0fsnb8jsq39ibn0htmu53qduouua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
